@@ -1,4 +1,4 @@
-# b8a10-brandshop-client-side-Mostaq27
+# Indastrial Attachment project with CodeChefer
 
 
 ## Live Link
